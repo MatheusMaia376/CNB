@@ -28,7 +28,7 @@ export default function Header() {
               <Link href='/posts'>Posts</Link>
             </li>
             <li>
-              <Link href='/aluno'>Alun</Link>
+              <Link href='/aluno'>Aluno</Link>
             </li>
           </ul>
         </nav>
